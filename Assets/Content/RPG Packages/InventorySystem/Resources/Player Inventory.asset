@@ -9,15 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6259d2596bc46a84b82c08bfc9ce9f91, type: 3}
-  m_Name: Test3
+  m_Script: {fileID: 11500000, guid: ac7899f37491929449689e70785e3c3b, type: 3}
+  m_Name: Player Inventory
   m_EditorClassIdentifier: 
-  itemID: 0075d89c-dfc8-4beb-ab20-02da2e0dfebb
-  displayName: Test 3
-  description: 
-  itemPrice: 0
-  itemTier: 1
-  icon: {fileID: 0}
-  pickup: {fileID: 0}
-  stackable: 0
-  consumable: 0
+  inventorySize: 16
